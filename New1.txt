@@ -1,0 +1,3 @@
+This behavior just works for spied objects, since are "wrapper" of real objects.
+
+ In the case of mocked objects, it does not matter if it's when/thenReturn or doReturn/ when. Mocked objects never calls real 
