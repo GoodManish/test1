@@ -1,0 +1,3 @@
+This was a hypothetical scenario, where i show the usage/advantage of doReturn. 
+
+In a real application, a method which just returns an exception makes of course no sense.. but you have methods (probably not so thin like this one) which may throw exceptions in certain conditions
